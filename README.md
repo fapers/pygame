@@ -9,4 +9,4 @@ os caminhos de instalação do Python:
 
 -> C:\Users\name_user\AppData\Local\Programs\Python\Python310\Scripts
 
-2) Abra o explorer e importe o repositório do github para um local no computador. Abra o terminal windows na pasta desejada e digite: git clone 
+2) Abra o explorer e importe o repositório do github para um local no computador. Abra o terminal windows na pasta desejada e digite: git clone https://github.com/fapers/pygame.git 
