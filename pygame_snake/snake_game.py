@@ -1,5 +1,6 @@
 # Snake Game!
 # by root
+# author: Fábio P. Souza
 
 # our game imports
 import pygame, sys, random, time
